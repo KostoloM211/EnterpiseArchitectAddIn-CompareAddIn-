@@ -1,0 +1,1 @@
+"# EnterpiseArchitectAddIn-CompareAddIn-" 
