@@ -1,0 +1,17 @@
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\bin\Debug\CompareSolution.dll
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\bin\Debug\CompareSolution.pdb
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\obj\Debug\CompareSolution.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\obj\Debug\CompareSolution.dll
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\obj\Debug\CompareSolution.pdb
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\bin\Debug\CompareSolution.tlb
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\obj\Debug\CompareSolution.Forms.Choise.resources
+C:\Users\Константин\Desktop\CompareSolution\CompareSolution\obj\Debug\CompareSolution.csproj.GenerateResource.Cache
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\obj\Debug\CompareSolution.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\obj\Debug\CompareSolution.Forms.Choise.resources
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\obj\Debug\CompareSolution.csproj.GenerateResource.Cache
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\obj\Debug\CompareSolution.dll
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\bin\Debug\CompareSolution.dll
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\bin\Debug\CompareSolution.pdb
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\obj\Debug\CompareSolution.pdb
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\bin\Debug\CompareSolution.tlb
+C:\Users\Konstantin\Downloads\CompareSolution\CompareSolution\CompareSolution\obj\Debug\CompareSolution.Forms.Preview.resources
