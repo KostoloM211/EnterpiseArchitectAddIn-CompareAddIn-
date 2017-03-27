@@ -1,0 +1,13 @@
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.csproj.GenerateResource.Cache
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\bin\Debug\Solution.dll
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\bin\Debug\Solution.pdb
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\bin\Debug\Solution.tlb
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.Properties.Resources.resources
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.dll
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.pdb
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.Forms.Choise.resources
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.Forms.Loading.resources
+C:\Users\Константин\Desktop\Solution(new)\EnterpiseArchitectAddIn-CompareAddIn-\CompareSolution\obj\Debug\Solution.Forms.Preview.resources
